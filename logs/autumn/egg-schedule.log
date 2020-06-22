@@ -1,0 +1,105 @@
+2020-06-21 15:03:12,066 INFO 14008 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:03:12,066 INFO 14008 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:03:12,066 INFO 14008 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:03:15,161 INFO 11760 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48404842ms at 2020-06-22 04:30:00.003
+2020-06-21 15:03:15,161 INFO 11760 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32204839ms at 2020-06-22 00:00:00.000
+2020-06-21 15:03:15,161 INFO 11760 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32205839ms at 2020-06-22 00:00:01.000
+2020-06-21 15:13:17,472 INFO 14512 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:13:17,472 INFO 14512 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:13:17,472 INFO 14512 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:15:12,297 INFO 21056 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:15:12,297 INFO 21056 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:15:12,297 INFO 21056 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:15:16,190 INFO 18536 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:15:16,190 INFO 18536 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:15:16,190 INFO 18536 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:16:43,891 INFO 17648 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47596111ms at 2020-06-22 04:30:00.002
+2020-06-21 15:16:43,891 INFO 17648 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31396109ms at 2020-06-22 00:00:00.000
+2020-06-21 15:16:43,891 INFO 17648 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31397109ms at 2020-06-22 00:00:01.000
+2020-06-21 15:16:43,787 INFO 21628 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:16:43,787 INFO 21628 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:16:43,787 INFO 21628 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:19:09,335 INFO 12724 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47450667ms at 2020-06-22 04:30:00.002
+2020-06-21 15:19:09,335 INFO 12724 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31250665ms at 2020-06-22 00:00:00.000
+2020-06-21 15:19:09,335 INFO 12724 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31251665ms at 2020-06-22 00:00:01.000
+2020-06-21 15:19:09,231 INFO 18912 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:19:09,231 INFO 18912 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:19:09,231 INFO 18912 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:21:54,071 INFO 24276 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47285932ms at 2020-06-22 04:30:00.001
+2020-06-21 15:21:54,071 INFO 24276 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31085929ms at 2020-06-22 00:00:00.000
+2020-06-21 15:21:54,071 INFO 24276 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31086929ms at 2020-06-22 00:00:01.000
+2020-06-21 15:21:53,967 INFO 15096 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:21:53,967 INFO 15096 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:21:53,967 INFO 15096 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:26:17,357 INFO 28356 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47022645ms at 2020-06-22 04:30:00.002
+2020-06-21 15:26:17,357 INFO 28356 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 30822643ms at 2020-06-22 00:00:00.000
+2020-06-21 15:26:17,358 INFO 28356 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30823643ms at 2020-06-22 00:00:01.001
+2020-06-21 15:26:17,255 INFO 20208 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:26:17,255 INFO 20208 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:26:17,255 INFO 20208 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 15:31:35,090 INFO 12596 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 15:31:35,090 INFO 12596 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 15:31:35,090 INFO 12596 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 16:04:02,267 INFO 1532 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 16:04:02,267 INFO 1532 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 16:04:02,267 INFO 1532 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 16:07:59,629 INFO 13188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 16:07:59,629 INFO 13188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 16:07:59,629 INFO 13188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 16:08:01,769 INFO 26784 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44518234ms at 2020-06-22 04:30:00.003
+2020-06-21 16:08:01,770 INFO 26784 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 28318231ms at 2020-06-22 00:00:00.001
+2020-06-21 16:08:01,770 INFO 26784 [Timer] C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28319230ms at 2020-06-22 00:00:01.000
+2020-06-21 16:54:15,755 INFO 13384 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 16:54:15,755 INFO 13384 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 16:54:15,755 INFO 13384 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:26:24,468 INFO 22188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:26:24,468 INFO 22188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:26:24,468 INFO 22188 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:26:28,219 INFO 24328 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:26:28,219 INFO 24328 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:26:28,219 INFO 24328 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:26:31,495 INFO 2508 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:26:31,495 INFO 2508 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:26:31,495 INFO 2508 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:27:45,186 INFO 18236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:27:45,186 INFO 18236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:27:45,186 INFO 18236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:29:42,369 INFO 17236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:29:42,369 INFO 17236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:29:42,369 INFO 17236 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:33:43,767 INFO 13288 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:33:43,767 INFO 13288 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:33:43,767 INFO 13288 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:34:12,667 INFO 23500 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:34:12,667 INFO 23500 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:34:12,667 INFO 23500 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:35:51,009 INFO 24920 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:35:51,009 INFO 24920 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:35:51,009 INFO 24920 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:35:54,256 INFO 13248 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:35:54,256 INFO 13248 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:35:54,256 INFO 13248 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:35:55,476 INFO 9292 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:35:55,476 INFO 9292 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:35:55,476 INFO 9292 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:36:00,962 INFO 9476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:36:00,962 INFO 9476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:36:00,962 INFO 9476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:36:06,821 INFO 26872 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:36:06,821 INFO 26872 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:36:06,821 INFO 26872 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:36:39,174 INFO 29624 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:36:39,174 INFO 29624 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:36:39,174 INFO 29624 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:42:20,022 INFO 26476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:42:20,022 INFO 26476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:42:20,022 INFO 26476 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:43:18,111 INFO 9104 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:43:18,111 INFO 9104 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:43:18,111 INFO 9104 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:43:28,597 INFO 18464 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:43:28,597 INFO 18464 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:43:28,597 INFO 18464 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-06-21 20:44:03,926 INFO 28680 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-06-21 20:44:03,926 INFO 28680 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-06-21 20:44:03,926 INFO 28680 [egg-schedule]: register schedule C:\Users\11929\Desktop\learn\autumn\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

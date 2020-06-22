@@ -1,0 +1,406 @@
+2020-06-21 15:03:12,038 INFO 14008 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:03:12,066 INFO 14008 [egg-multipart] stream mode enable
+2020-06-21 15:03:14,143 INFO 14008 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:03:14,146 INFO 14008 [egg-security] use csrf middleware
+2020-06-21 15:03:14,146 INFO 14008 [egg-security] use methodnoallow middleware
+2020-06-21 15:03:14,147 INFO 14008 [egg-security] use noopen middleware
+2020-06-21 15:03:14,147 INFO 14008 [egg-security] use nosniff middleware
+2020-06-21 15:03:14,148 INFO 14008 [egg-security] use xssProtection middleware
+2020-06-21 15:03:14,148 INFO 14008 [egg-security] use xframe middleware
+2020-06-21 15:03:14,149 INFO 14008 [egg-security] use dta middleware
+2020-06-21 15:03:14,149 INFO 14008 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:03:15,136 INFO 14008 [egg:core] dump config after load, 5ms
+2020-06-21 15:03:15,147 INFO 14008 [egg-watcher:application] watcher start success
+2020-06-21 15:03:15,155 INFO 14008 [egg:core] dump config after ready, 6ms
+2020-06-21 15:13:17,447 INFO 14512 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:13:17,472 INFO 14512 [egg-multipart] stream mode enable
+2020-06-21 15:13:17,535 INFO 14512 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:13:17,537 INFO 14512 [egg-security] use csrf middleware
+2020-06-21 15:13:17,538 INFO 14512 [egg-security] use methodnoallow middleware
+2020-06-21 15:13:17,538 INFO 14512 [egg-security] use noopen middleware
+2020-06-21 15:13:17,538 INFO 14512 [egg-security] use nosniff middleware
+2020-06-21 15:13:17,540 INFO 14512 [egg-security] use xssProtection middleware
+2020-06-21 15:13:17,540 INFO 14512 [egg-security] use xframe middleware
+2020-06-21 15:13:17,540 INFO 14512 [egg-security] use dta middleware
+2020-06-21 15:13:17,541 INFO 14512 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:13:19,605 INFO 14512 [egg:core] dump config after load, 5ms
+2020-06-21 15:13:19,616 INFO 14512 [egg-watcher:application] watcher start success
+2020-06-21 15:13:19,626 INFO 14512 [egg:core] dump config after ready, 9ms
+2020-06-21 15:15:12,269 INFO 21056 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:15:12,297 INFO 21056 [egg-multipart] stream mode enable
+2020-06-21 15:15:12,360 INFO 21056 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:15:12,362 INFO 21056 [egg-security] use csrf middleware
+2020-06-21 15:15:12,363 INFO 21056 [egg-security] use methodnoallow middleware
+2020-06-21 15:15:12,363 INFO 21056 [egg-security] use noopen middleware
+2020-06-21 15:15:12,363 INFO 21056 [egg-security] use nosniff middleware
+2020-06-21 15:15:12,365 INFO 21056 [egg-security] use xssProtection middleware
+2020-06-21 15:15:12,365 INFO 21056 [egg-security] use xframe middleware
+2020-06-21 15:15:12,365 INFO 21056 [egg-security] use dta middleware
+2020-06-21 15:15:12,366 INFO 21056 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:15:14,478 INFO 21056 [egg:core] dump config after load, 6ms
+2020-06-21 15:15:14,492 INFO 21056 [egg-watcher:application] watcher start success
+2020-06-21 15:15:14,504 INFO 21056 [egg:core] dump config after ready, 10ms
+2020-06-21 15:15:16,162 INFO 18536 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:15:16,191 INFO 18536 [egg-multipart] stream mode enable
+2020-06-21 15:15:16,263 INFO 18536 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:15:16,264 INFO 18536 [egg-security] use csrf middleware
+2020-06-21 15:15:16,266 INFO 18536 [egg-security] use methodnoallow middleware
+2020-06-21 15:15:16,266 INFO 18536 [egg-security] use noopen middleware
+2020-06-21 15:15:16,266 INFO 18536 [egg-security] use nosniff middleware
+2020-06-21 15:15:16,268 INFO 18536 [egg-security] use xssProtection middleware
+2020-06-21 15:15:16,268 INFO 18536 [egg-security] use xframe middleware
+2020-06-21 15:15:16,269 INFO 18536 [egg-security] use dta middleware
+2020-06-21 15:15:16,269 INFO 18536 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:15:18,449 INFO 18536 [egg:core] dump config after load, 6ms
+2020-06-21 15:15:18,460 INFO 18536 [egg-watcher:application] watcher start success
+2020-06-21 15:15:18,478 INFO 18536 [egg:core] dump config after ready, 15ms
+2020-06-21 15:16:43,761 INFO 21628 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:16:43,788 INFO 21628 [egg-multipart] stream mode enable
+2020-06-21 15:16:43,851 INFO 21628 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:16:43,853 INFO 21628 [egg-security] use csrf middleware
+2020-06-21 15:16:43,854 INFO 21628 [egg-security] use methodnoallow middleware
+2020-06-21 15:16:43,855 INFO 21628 [egg-security] use noopen middleware
+2020-06-21 15:16:43,855 INFO 21628 [egg-security] use nosniff middleware
+2020-06-21 15:16:43,856 INFO 21628 [egg-security] use xssProtection middleware
+2020-06-21 15:16:43,856 INFO 21628 [egg-security] use xframe middleware
+2020-06-21 15:16:43,857 INFO 21628 [egg-security] use dta middleware
+2020-06-21 15:16:43,857 INFO 21628 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:16:43,866 INFO 21628 [egg:core] dump config after load, 4ms
+2020-06-21 15:16:43,877 INFO 21628 [egg-watcher:application] watcher start success
+2020-06-21 15:16:43,884 INFO 21628 [egg:core] dump config after ready, 6ms
+2020-06-21 15:19:09,202 INFO 18912 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:19:09,232 INFO 18912 [egg-multipart] stream mode enable
+2020-06-21 15:19:09,295 INFO 18912 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:19:09,299 INFO 18912 [egg-security] use csrf middleware
+2020-06-21 15:19:09,300 INFO 18912 [egg-security] use methodnoallow middleware
+2020-06-21 15:19:09,300 INFO 18912 [egg-security] use noopen middleware
+2020-06-21 15:19:09,300 INFO 18912 [egg-security] use nosniff middleware
+2020-06-21 15:19:09,300 INFO 18912 [egg-security] use xssProtection middleware
+2020-06-21 15:19:09,302 INFO 18912 [egg-security] use xframe middleware
+2020-06-21 15:19:09,302 INFO 18912 [egg-security] use dta middleware
+2020-06-21 15:19:09,302 INFO 18912 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:19:09,311 INFO 18912 [egg:core] dump config after load, 4ms
+2020-06-21 15:19:09,322 INFO 18912 [egg-watcher:application] watcher start success
+2020-06-21 15:19:09,331 INFO 18912 [egg:core] dump config after ready, 7ms
+2020-06-21 15:21:53,939 INFO 15096 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:21:53,967 INFO 15096 [egg-multipart] stream mode enable
+2020-06-21 15:21:54,031 INFO 15096 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:21:54,033 INFO 15096 [egg-security] use csrf middleware
+2020-06-21 15:21:54,034 INFO 15096 [egg-security] use methodnoallow middleware
+2020-06-21 15:21:54,034 INFO 15096 [egg-security] use noopen middleware
+2020-06-21 15:21:54,035 INFO 15096 [egg-security] use nosniff middleware
+2020-06-21 15:21:54,035 INFO 15096 [egg-security] use xssProtection middleware
+2020-06-21 15:21:54,035 INFO 15096 [egg-security] use xframe middleware
+2020-06-21 15:21:54,035 INFO 15096 [egg-security] use dta middleware
+2020-06-21 15:21:54,035 INFO 15096 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:21:54,045 INFO 15096 [egg:core] dump config after load, 6ms
+2020-06-21 15:21:54,055 INFO 15096 [egg-watcher:application] watcher start success
+2020-06-21 15:21:54,065 INFO 15096 [egg:core] dump config after ready, 7ms
+2020-06-21 15:26:17,227 INFO 20208 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:26:17,256 INFO 20208 [egg-multipart] stream mode enable
+2020-06-21 15:26:17,319 INFO 20208 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:26:17,321 INFO 20208 [egg-security] use csrf middleware
+2020-06-21 15:26:17,323 INFO 20208 [egg-security] use methodnoallow middleware
+2020-06-21 15:26:17,323 INFO 20208 [egg-security] use noopen middleware
+2020-06-21 15:26:17,324 INFO 20208 [egg-security] use nosniff middleware
+2020-06-21 15:26:17,324 INFO 20208 [egg-security] use xssProtection middleware
+2020-06-21 15:26:17,325 INFO 20208 [egg-security] use xframe middleware
+2020-06-21 15:26:17,325 INFO 20208 [egg-security] use dta middleware
+2020-06-21 15:26:17,325 INFO 20208 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:26:17,333 INFO 20208 [egg:core] dump config after load, 5ms
+2020-06-21 15:26:17,344 INFO 20208 [egg-watcher:application] watcher start success
+2020-06-21 15:26:17,352 INFO 20208 [egg:core] dump config after ready, 5ms
+2020-06-21 15:31:35,064 INFO 12596 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 15:31:35,090 INFO 12596 [egg-multipart] stream mode enable
+2020-06-21 15:31:35,151 INFO 12596 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 15:31:35,154 INFO 12596 [egg-security] use csrf middleware
+2020-06-21 15:31:35,155 INFO 12596 [egg-security] use methodnoallow middleware
+2020-06-21 15:31:35,155 INFO 12596 [egg-security] use noopen middleware
+2020-06-21 15:31:35,156 INFO 12596 [egg-security] use nosniff middleware
+2020-06-21 15:31:35,156 INFO 12596 [egg-security] use xssProtection middleware
+2020-06-21 15:31:35,157 INFO 12596 [egg-security] use xframe middleware
+2020-06-21 15:31:35,157 INFO 12596 [egg-security] use dta middleware
+2020-06-21 15:31:35,157 INFO 12596 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 15:31:35,170 INFO 12596 [egg:core] dump config after load, 9ms
+2020-06-21 15:31:35,183 INFO 12596 [egg-watcher:application] watcher start success
+2020-06-21 15:31:35,194 INFO 12596 [egg:core] dump config after ready, 8ms
+2020-06-21 16:04:02,241 INFO 1532 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 16:04:02,268 INFO 1532 [egg-multipart] stream mode enable
+2020-06-21 16:04:02,333 INFO 1532 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 16:04:02,334 INFO 1532 [egg-security] use csrf middleware
+2020-06-21 16:04:02,336 INFO 1532 [egg-security] use methodnoallow middleware
+2020-06-21 16:04:02,336 INFO 1532 [egg-security] use noopen middleware
+2020-06-21 16:04:02,336 INFO 1532 [egg-security] use nosniff middleware
+2020-06-21 16:04:02,338 INFO 1532 [egg-security] use xssProtection middleware
+2020-06-21 16:04:02,338 INFO 1532 [egg-security] use xframe middleware
+2020-06-21 16:04:02,338 INFO 1532 [egg-security] use dta middleware
+2020-06-21 16:04:02,338 INFO 1532 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 16:04:04,943 INFO 1532 [egg:core] dump config after load, 5ms
+2020-06-21 16:04:04,951 INFO 1532 [egg-watcher:application] watcher start success
+2020-06-21 16:04:04,959 INFO 1532 [egg:core] dump config after ready, 5ms
+2020-06-21 16:07:59,603 INFO 13188 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 16:07:59,629 INFO 13188 [egg-multipart] stream mode enable
+2020-06-21 16:07:59,697 INFO 13188 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 16:07:59,699 INFO 13188 [egg-security] use csrf middleware
+2020-06-21 16:07:59,700 INFO 13188 [egg-security] use methodnoallow middleware
+2020-06-21 16:07:59,701 INFO 13188 [egg-security] use noopen middleware
+2020-06-21 16:07:59,701 INFO 13188 [egg-security] use nosniff middleware
+2020-06-21 16:07:59,702 INFO 13188 [egg-security] use xssProtection middleware
+2020-06-21 16:07:59,702 INFO 13188 [egg-security] use xframe middleware
+2020-06-21 16:07:59,702 INFO 13188 [egg-security] use dta middleware
+2020-06-21 16:07:59,702 INFO 13188 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 16:08:01,737 INFO 13188 [egg:core] dump config after load, 12ms
+2020-06-21 16:08:01,752 INFO 13188 [egg-watcher:application] watcher start success
+2020-06-21 16:08:01,762 INFO 13188 [egg:core] dump config after ready, 8ms
+2020-06-21 16:54:15,728 INFO 13384 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 16:54:15,756 INFO 13384 [egg-multipart] stream mode enable
+2020-06-21 16:54:15,821 INFO 13384 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 16:54:15,823 INFO 13384 [egg-security] use csrf middleware
+2020-06-21 16:54:15,825 INFO 13384 [egg-security] use methodnoallow middleware
+2020-06-21 16:54:15,826 INFO 13384 [egg-security] use noopen middleware
+2020-06-21 16:54:15,826 INFO 13384 [egg-security] use nosniff middleware
+2020-06-21 16:54:15,826 INFO 13384 [egg-security] use xssProtection middleware
+2020-06-21 16:54:15,826 INFO 13384 [egg-security] use xframe middleware
+2020-06-21 16:54:15,827 INFO 13384 [egg-security] use dta middleware
+2020-06-21 16:54:15,827 INFO 13384 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 16:54:17,804 INFO 13384 [egg:core] dump config after load, 4ms
+2020-06-21 16:54:17,815 INFO 13384 [egg-watcher:application] watcher start success
+2020-06-21 16:54:17,825 INFO 13384 [egg:core] dump config after ready, 8ms
+2020-06-21 20:26:24,443 INFO 22188 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:26:24,470 INFO 22188 [egg-multipart] stream mode enable
+2020-06-21 20:26:24,534 INFO 22188 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:26:24,536 INFO 22188 [egg-security] use csrf middleware
+2020-06-21 20:26:24,536 INFO 22188 [egg-security] use methodnoallow middleware
+2020-06-21 20:26:24,536 INFO 22188 [egg-security] use noopen middleware
+2020-06-21 20:26:24,538 INFO 22188 [egg-security] use nosniff middleware
+2020-06-21 20:26:24,538 INFO 22188 [egg-security] use xssProtection middleware
+2020-06-21 20:26:24,538 INFO 22188 [egg-security] use xframe middleware
+2020-06-21 20:26:24,540 INFO 22188 [egg-security] use dta middleware
+2020-06-21 20:26:24,540 INFO 22188 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:26:27,138 INFO 22188 [egg:core] dump config after load, 6ms
+2020-06-21 20:26:27,152 INFO 22188 [egg-watcher:application] watcher start success
+2020-06-21 20:26:27,160 INFO 22188 [egg:core] dump config after ready, 7ms
+2020-06-21 20:26:28,192 INFO 24328 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:26:28,219 INFO 24328 [egg-multipart] stream mode enable
+2020-06-21 20:26:28,281 INFO 24328 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:26:28,284 INFO 24328 [egg-security] use csrf middleware
+2020-06-21 20:26:28,284 INFO 24328 [egg-security] use methodnoallow middleware
+2020-06-21 20:26:28,284 INFO 24328 [egg-security] use noopen middleware
+2020-06-21 20:26:28,286 INFO 24328 [egg-security] use nosniff middleware
+2020-06-21 20:26:28,286 INFO 24328 [egg-security] use xssProtection middleware
+2020-06-21 20:26:28,287 INFO 24328 [egg-security] use xframe middleware
+2020-06-21 20:26:28,287 INFO 24328 [egg-security] use dta middleware
+2020-06-21 20:26:28,287 INFO 24328 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:26:30,330 INFO 24328 [egg:core] dump config after load, 10ms
+2020-06-21 20:26:30,343 INFO 24328 [egg-watcher:application] watcher start success
+2020-06-21 20:26:30,353 INFO 24328 [egg:core] dump config after ready, 8ms
+2020-06-21 20:26:31,468 INFO 2508 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:26:31,495 INFO 2508 [egg-multipart] stream mode enable
+2020-06-21 20:26:31,562 INFO 2508 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:26:31,565 INFO 2508 [egg-security] use csrf middleware
+2020-06-21 20:26:31,566 INFO 2508 [egg-security] use methodnoallow middleware
+2020-06-21 20:26:31,566 INFO 2508 [egg-security] use noopen middleware
+2020-06-21 20:26:31,567 INFO 2508 [egg-security] use nosniff middleware
+2020-06-21 20:26:31,567 INFO 2508 [egg-security] use xssProtection middleware
+2020-06-21 20:26:31,568 INFO 2508 [egg-security] use xframe middleware
+2020-06-21 20:26:31,568 INFO 2508 [egg-security] use dta middleware
+2020-06-21 20:26:31,568 INFO 2508 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:26:33,708 INFO 2508 [egg:core] dump config after load, 5ms
+2020-06-21 20:26:33,724 INFO 2508 [egg-watcher:application] watcher start success
+2020-06-21 20:26:33,745 INFO 2508 [egg:core] dump config after ready, 18ms
+2020-06-21 20:27:45,159 INFO 18236 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:27:45,186 INFO 18236 [egg-multipart] stream mode enable
+2020-06-21 20:27:45,251 INFO 18236 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:27:45,254 INFO 18236 [egg-security] use csrf middleware
+2020-06-21 20:27:45,254 INFO 18236 [egg-security] use methodnoallow middleware
+2020-06-21 20:27:45,255 INFO 18236 [egg-security] use noopen middleware
+2020-06-21 20:27:45,256 INFO 18236 [egg-security] use nosniff middleware
+2020-06-21 20:27:45,256 INFO 18236 [egg-security] use xssProtection middleware
+2020-06-21 20:27:45,257 INFO 18236 [egg-security] use xframe middleware
+2020-06-21 20:27:45,257 INFO 18236 [egg-security] use dta middleware
+2020-06-21 20:27:45,257 INFO 18236 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:27:47,245 INFO 18236 [egg:core] dump config after load, 6ms
+2020-06-21 20:27:47,256 INFO 18236 [egg-watcher:application] watcher start success
+2020-06-21 20:27:47,272 INFO 18236 [egg:core] dump config after ready, 14ms
+2020-06-21 20:29:42,342 INFO 17236 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:29:42,369 INFO 17236 [egg-multipart] stream mode enable
+2020-06-21 20:29:42,434 INFO 17236 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:29:42,436 INFO 17236 [egg-security] use csrf middleware
+2020-06-21 20:29:42,437 INFO 17236 [egg-security] use methodnoallow middleware
+2020-06-21 20:29:42,437 INFO 17236 [egg-security] use noopen middleware
+2020-06-21 20:29:42,438 INFO 17236 [egg-security] use nosniff middleware
+2020-06-21 20:29:42,439 INFO 17236 [egg-security] use xssProtection middleware
+2020-06-21 20:29:42,439 INFO 17236 [egg-security] use xframe middleware
+2020-06-21 20:29:42,439 INFO 17236 [egg-security] use dta middleware
+2020-06-21 20:29:42,440 INFO 17236 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:29:44,525 INFO 17236 [egg:core] dump config after load, 4ms
+2020-06-21 20:29:44,536 INFO 17236 [egg-watcher:application] watcher start success
+2020-06-21 20:29:44,551 INFO 17236 [egg:core] dump config after ready, 13ms
+2020-06-21 20:33:43,740 INFO 13288 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:33:43,768 INFO 13288 [egg-multipart] stream mode enable
+2020-06-21 20:33:43,837 INFO 13288 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:33:43,839 INFO 13288 [egg-security] use csrf middleware
+2020-06-21 20:33:43,840 INFO 13288 [egg-security] use methodnoallow middleware
+2020-06-21 20:33:43,840 INFO 13288 [egg-security] use noopen middleware
+2020-06-21 20:33:43,841 INFO 13288 [egg-security] use nosniff middleware
+2020-06-21 20:33:43,842 INFO 13288 [egg-security] use xssProtection middleware
+2020-06-21 20:33:43,842 INFO 13288 [egg-security] use xframe middleware
+2020-06-21 20:33:43,843 INFO 13288 [egg-security] use dta middleware
+2020-06-21 20:33:43,843 INFO 13288 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:33:45,908 INFO 13288 [egg:core] dump config after load, 11ms
+2020-06-21 20:33:45,920 INFO 13288 [egg-watcher:application] watcher start success
+2020-06-21 20:33:45,930 INFO 13288 [egg:core] dump config after ready, 8ms
+2020-06-21 20:34:12,641 INFO 23500 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:34:12,668 INFO 23500 [egg-multipart] stream mode enable
+2020-06-21 20:34:12,730 INFO 23500 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:34:12,733 INFO 23500 [egg-security] use csrf middleware
+2020-06-21 20:34:12,733 INFO 23500 [egg-security] use methodnoallow middleware
+2020-06-21 20:34:12,734 INFO 23500 [egg-security] use noopen middleware
+2020-06-21 20:34:12,734 INFO 23500 [egg-security] use nosniff middleware
+2020-06-21 20:34:12,735 INFO 23500 [egg-security] use xssProtection middleware
+2020-06-21 20:34:12,735 INFO 23500 [egg-security] use xframe middleware
+2020-06-21 20:34:12,736 INFO 23500 [egg-security] use dta middleware
+2020-06-21 20:34:12,736 INFO 23500 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:34:14,839 INFO 23500 [egg:core] dump config after load, 11ms
+2020-06-21 20:34:14,849 INFO 23500 [egg-watcher:application] watcher start success
+2020-06-21 20:34:14,860 INFO 23500 [egg:core] dump config after ready, 9ms
+2020-06-21 20:35:50,982 INFO 24920 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:35:51,010 INFO 24920 [egg-multipart] stream mode enable
+2020-06-21 20:35:51,075 INFO 24920 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:35:51,078 INFO 24920 [egg-security] use csrf middleware
+2020-06-21 20:35:51,078 INFO 24920 [egg-security] use methodnoallow middleware
+2020-06-21 20:35:51,079 INFO 24920 [egg-security] use noopen middleware
+2020-06-21 20:35:51,080 INFO 24920 [egg-security] use nosniff middleware
+2020-06-21 20:35:51,080 INFO 24920 [egg-security] use xssProtection middleware
+2020-06-21 20:35:51,081 INFO 24920 [egg-security] use xframe middleware
+2020-06-21 20:35:51,081 INFO 24920 [egg-security] use dta middleware
+2020-06-21 20:35:51,081 INFO 24920 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:35:53,136 INFO 24920 [egg:core] dump config after load, 7ms
+2020-06-21 20:35:53,150 INFO 24920 [egg-watcher:application] watcher start success
+2020-06-21 20:35:53,162 INFO 24920 [egg:core] dump config after ready, 10ms
+2020-06-21 20:35:54,226 INFO 13248 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:35:54,257 INFO 13248 [egg-multipart] stream mode enable
+2020-06-21 20:35:54,331 INFO 13248 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:35:54,333 INFO 13248 [egg-security] use csrf middleware
+2020-06-21 20:35:54,334 INFO 13248 [egg-security] use methodnoallow middleware
+2020-06-21 20:35:54,335 INFO 13248 [egg-security] use noopen middleware
+2020-06-21 20:35:54,335 INFO 13248 [egg-security] use nosniff middleware
+2020-06-21 20:35:54,336 INFO 13248 [egg-security] use xssProtection middleware
+2020-06-21 20:35:54,336 INFO 13248 [egg-security] use xframe middleware
+2020-06-21 20:35:54,337 INFO 13248 [egg-security] use dta middleware
+2020-06-21 20:35:54,337 INFO 13248 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:35:54,360 INFO 13248 [egg:core] dump config after load, 6ms
+2020-06-21 20:35:54,371 INFO 13248 [egg-watcher:application] watcher start success
+2020-06-21 20:35:54,379 INFO 13248 [egg:core] dump config after ready, 7ms
+2020-06-21 20:35:55,449 INFO 9292 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:35:55,476 INFO 9292 [egg-multipart] stream mode enable
+2020-06-21 20:35:55,544 INFO 9292 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:35:55,547 INFO 9292 [egg-security] use csrf middleware
+2020-06-21 20:35:55,548 INFO 9292 [egg-security] use methodnoallow middleware
+2020-06-21 20:35:55,548 INFO 9292 [egg-security] use noopen middleware
+2020-06-21 20:35:55,549 INFO 9292 [egg-security] use nosniff middleware
+2020-06-21 20:35:55,549 INFO 9292 [egg-security] use xssProtection middleware
+2020-06-21 20:35:55,550 INFO 9292 [egg-security] use xframe middleware
+2020-06-21 20:35:55,550 INFO 9292 [egg-security] use dta middleware
+2020-06-21 20:35:55,550 INFO 9292 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:35:55,575 INFO 9292 [egg:core] dump config after load, 5ms
+2020-06-21 20:35:55,585 INFO 9292 [egg-watcher:application] watcher start success
+2020-06-21 20:35:55,593 INFO 9292 [egg:core] dump config after ready, 7ms
+2020-06-21 20:36:00,935 INFO 9476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:36:00,962 INFO 9476 [egg-multipart] stream mode enable
+2020-06-21 20:36:01,026 INFO 9476 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:36:01,029 INFO 9476 [egg-security] use csrf middleware
+2020-06-21 20:36:01,029 INFO 9476 [egg-security] use methodnoallow middleware
+2020-06-21 20:36:01,030 INFO 9476 [egg-security] use noopen middleware
+2020-06-21 20:36:01,030 INFO 9476 [egg-security] use nosniff middleware
+2020-06-21 20:36:01,031 INFO 9476 [egg-security] use xssProtection middleware
+2020-06-21 20:36:01,031 INFO 9476 [egg-security] use xframe middleware
+2020-06-21 20:36:01,032 INFO 9476 [egg-security] use dta middleware
+2020-06-21 20:36:01,032 INFO 9476 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:36:03,054 INFO 9476 [egg:core] dump config after load, 5ms
+2020-06-21 20:36:03,065 INFO 9476 [egg-watcher:application] watcher start success
+2020-06-21 20:36:03,080 INFO 9476 [egg:core] dump config after ready, 15ms
+2020-06-21 20:36:06,793 INFO 26872 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:36:06,821 INFO 26872 [egg-multipart] stream mode enable
+2020-06-21 20:36:06,886 INFO 26872 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:36:06,888 INFO 26872 [egg-security] use csrf middleware
+2020-06-21 20:36:06,889 INFO 26872 [egg-security] use methodnoallow middleware
+2020-06-21 20:36:06,890 INFO 26872 [egg-security] use noopen middleware
+2020-06-21 20:36:06,890 INFO 26872 [egg-security] use nosniff middleware
+2020-06-21 20:36:06,891 INFO 26872 [egg-security] use xssProtection middleware
+2020-06-21 20:36:06,891 INFO 26872 [egg-security] use xframe middleware
+2020-06-21 20:36:06,892 INFO 26872 [egg-security] use dta middleware
+2020-06-21 20:36:06,892 INFO 26872 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:36:08,956 INFO 26872 [egg:core] dump config after load, 5ms
+2020-06-21 20:36:08,968 INFO 26872 [egg-watcher:application] watcher start success
+2020-06-21 20:36:08,986 INFO 26872 [egg:core] dump config after ready, 16ms
+2020-06-21 20:36:39,146 INFO 29624 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:36:39,175 INFO 29624 [egg-multipart] stream mode enable
+2020-06-21 20:36:39,238 INFO 29624 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:36:39,240 INFO 29624 [egg-security] use csrf middleware
+2020-06-21 20:36:39,241 INFO 29624 [egg-security] use methodnoallow middleware
+2020-06-21 20:36:39,242 INFO 29624 [egg-security] use noopen middleware
+2020-06-21 20:36:39,242 INFO 29624 [egg-security] use nosniff middleware
+2020-06-21 20:36:39,243 INFO 29624 [egg-security] use xssProtection middleware
+2020-06-21 20:36:39,243 INFO 29624 [egg-security] use xframe middleware
+2020-06-21 20:36:39,244 INFO 29624 [egg-security] use dta middleware
+2020-06-21 20:36:39,244 INFO 29624 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:36:41,355 INFO 29624 [egg:core] dump config after load, 11ms
+2020-06-21 20:36:41,366 INFO 29624 [egg-watcher:application] watcher start success
+2020-06-21 20:36:41,377 INFO 29624 [egg:core] dump config after ready, 9ms
+2020-06-21 20:42:19,995 INFO 26476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:42:20,022 INFO 26476 [egg-multipart] stream mode enable
+2020-06-21 20:42:20,086 INFO 26476 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:42:20,088 INFO 26476 [egg-security] use csrf middleware
+2020-06-21 20:42:20,089 INFO 26476 [egg-security] use methodnoallow middleware
+2020-06-21 20:42:20,091 INFO 26476 [egg-security] use noopen middleware
+2020-06-21 20:42:20,091 INFO 26476 [egg-security] use nosniff middleware
+2020-06-21 20:42:20,092 INFO 26476 [egg-security] use xssProtection middleware
+2020-06-21 20:42:20,092 INFO 26476 [egg-security] use xframe middleware
+2020-06-21 20:42:20,093 INFO 26476 [egg-security] use dta middleware
+2020-06-21 20:42:20,093 INFO 26476 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:42:20,115 INFO 26476 [egg:core] dump config after load, 5ms
+2020-06-21 20:42:20,125 INFO 26476 [egg-watcher:application] watcher start success
+2020-06-21 20:42:20,132 INFO 26476 [egg:core] dump config after ready, 6ms
+2020-06-21 20:43:18,084 INFO 9104 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:43:18,111 INFO 9104 [egg-multipart] stream mode enable
+2020-06-21 20:43:18,177 INFO 9104 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:43:18,180 INFO 9104 [egg-security] use csrf middleware
+2020-06-21 20:43:18,181 INFO 9104 [egg-security] use methodnoallow middleware
+2020-06-21 20:43:18,181 INFO 9104 [egg-security] use noopen middleware
+2020-06-21 20:43:18,182 INFO 9104 [egg-security] use nosniff middleware
+2020-06-21 20:43:18,182 INFO 9104 [egg-security] use xssProtection middleware
+2020-06-21 20:43:18,182 INFO 9104 [egg-security] use xframe middleware
+2020-06-21 20:43:18,182 INFO 9104 [egg-security] use dta middleware
+2020-06-21 20:43:18,182 INFO 9104 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:43:20,187 INFO 9104 [egg:core] dump config after load, 6ms
+2020-06-21 20:43:20,204 INFO 9104 [egg-watcher:application] watcher start success
+2020-06-21 20:43:20,216 INFO 9104 [egg:core] dump config after ready, 11ms
+2020-06-21 20:43:28,571 INFO 18464 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:43:28,598 INFO 18464 [egg-multipart] stream mode enable
+2020-06-21 20:43:28,664 INFO 18464 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:43:28,666 INFO 18464 [egg-security] use csrf middleware
+2020-06-21 20:43:28,666 INFO 18464 [egg-security] use methodnoallow middleware
+2020-06-21 20:43:28,667 INFO 18464 [egg-security] use noopen middleware
+2020-06-21 20:43:28,669 INFO 18464 [egg-security] use nosniff middleware
+2020-06-21 20:43:28,669 INFO 18464 [egg-security] use xssProtection middleware
+2020-06-21 20:43:28,670 INFO 18464 [egg-security] use xframe middleware
+2020-06-21 20:43:28,670 INFO 18464 [egg-security] use dta middleware
+2020-06-21 20:43:28,670 INFO 18464 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:43:30,713 INFO 18464 [egg:core] dump config after load, 10ms
+2020-06-21 20:43:30,727 INFO 18464 [egg-watcher:application] watcher start success
+2020-06-21 20:43:30,739 INFO 18464 [egg:core] dump config after ready, 11ms
+2020-06-21 20:44:03,899 INFO 28680 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\11929\\Desktop\\learn\\autumn\\logs\\autumn","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"autumn-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-06-21 20:44:03,926 INFO 28680 [egg-multipart] stream mode enable
+2020-06-21 20:44:03,990 INFO 28680 [egg-static] starting static serve /public/ -> C:\Users\11929\Desktop\learn\autumn\app\public
+2020-06-21 20:44:03,992 INFO 28680 [egg-security] use csrf middleware
+2020-06-21 20:44:03,993 INFO 28680 [egg-security] use methodnoallow middleware
+2020-06-21 20:44:03,993 INFO 28680 [egg-security] use noopen middleware
+2020-06-21 20:44:03,994 INFO 28680 [egg-security] use nosniff middleware
+2020-06-21 20:44:03,996 INFO 28680 [egg-security] use xssProtection middleware
+2020-06-21 20:44:03,996 INFO 28680 [egg-security] use xframe middleware
+2020-06-21 20:44:03,996 INFO 28680 [egg-security] use dta middleware
+2020-06-21 20:44:03,996 INFO 28680 [egg-security] compose 7 middlewares into one security middleware
+2020-06-21 20:44:04,019 INFO 28680 [egg:core] dump config after load, 5ms
+2020-06-21 20:44:04,028 INFO 28680 [egg-watcher:application] watcher start success
+2020-06-21 20:44:04,037 INFO 28680 [egg:core] dump config after ready, 8ms
